@@ -4,5 +4,5 @@ print("hello world")
 print("hello world")
 print("hello world")
 
-if(true):
+if false or true:
     print("goodbye world")
